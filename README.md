@@ -1,2 +1,1 @@
-# ansible-project
-ansible project
+# jenkins-example-ansible
